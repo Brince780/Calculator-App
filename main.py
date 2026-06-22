@@ -58,4 +58,4 @@ operations = {"+": add,
               "*": multiply,
               "/": divide
               }
-calculator() 
+calculator()
